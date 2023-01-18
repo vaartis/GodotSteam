@@ -1,5 +1,5 @@
 # GodotSteam Example Project
-This is a basic example of how GodotSteam can work in your game. It is based on my [tutorials from the documentation](https://gramps.github.io/GodotSteam/).
+This is a basic example of how GodotSteam can work in your game. It is based on the [tutorials from the documentation](https://godotsteam.com/).  This example project is meant for the Godot 3.x module but can be adapted for GDNative or Godot 4.x.
 
 Current Build
 ----------
@@ -34,7 +34,7 @@ Quick How-To
 
 Donate
 -------------
-Pull-requests are the best way to help the project out but you can also donate through [Patreon](https://patreon.com/coaguco) or [Paypal](https://www.paypal.me/sithlordkyle)!
+Pull-requests are the best way to help the project out but you can also donate through [Github Sponsors](https://github.com/sponsors/Gramps) or [Paypal](https://www.paypal.me/sithlordkyle)!
 
 License
 -------------
